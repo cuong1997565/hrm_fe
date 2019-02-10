@@ -1,0 +1,261 @@
+
+{
+  "title": {
+    "login": "Đăng nhập",
+    "home": "Trang chủ",
+    "user": {
+      "index": "Người dùng",
+      "detail": "Chi tiết người dùng",
+      "create": "Thêm mới  người dùng",
+      "edit": "Chỉnh sửa  người dùng"
+    },
+    "config": {
+      "index": "Cấu hình"
+    },
+    "positions": {
+      "index": "Bộ phận"
+    },
+    "employee": {
+      "index": "Nhân viên",
+      "detail": "Chi tiết nhân viên",
+      "create": "Thêm mới  nhân viên",
+      "edit": "Chỉnh sửa  nhân viên"
+    },
+    "employees": {
+      "index": "Nhân viên hrm",
+      "detail": "Chi tiết nhân viên hrm",
+      "create": "Thêm mới  nhân viên hrm",
+      "edit": "Chỉnh sửa  nhân viên hrm"
+    },
+
+    "role": {
+      "index": "Quyền truy cập",
+      "detail": "Chi tiết quyền try cập",
+      "create": "Thêm mới quyền try cập",
+      "edit": "Chỉnh sửa quyền try cập"
+    },
+    "contract":{
+      "index" : "Hợp đồng",
+      "listting": "Danh sách hợp đồng",
+      "detail" : "Chi tiết hợp đồng ",
+      "create": "Thêm mới hợp đồng",
+      "edit": "Chỉnh sửa hợp đồng"
+    },
+    "branch": {
+      "index": "Chi nhánh",
+      "detail": "Thông tin chi nhánh",
+      "create": "Thêm mới Chi nhánh",
+      "edit": "Chỉnh sửa chi nhánh"
+    },
+    "setting": {
+      "index": "Cài đặt",
+      "detail": "Thông tin",
+      "create": "Thêm cài đặt",
+      "edit": "Chỉnh sửa cài đặt"
+    },
+    "account": {
+      "change-password": "Đổi mật khẩu",
+      "change-information": "Thông tin cá nhân"
+    },
+    "department": {
+      "index": "Phòng ban",
+      "detail": "Chi tiết phòng ban",
+      "create": "Thêm mới phòng ban",
+      "edit": "Chỉnh sửa phòng ban"
+    },
+    "branch": {
+      "index": "Chi nhánh",
+      "detail": "Chi tiết chi nhánh",
+      "create": "Thêm mới chi nhánh",
+      "edit": "Chỉnh sửa chi nhánh"
+    },
+    "candidate": {
+      "index": "Ứng viên",
+      "detail": "Chi tiết ứng viên",
+      "create": "Thêm mới ứng viên",
+      "edit": "Chỉnh sửa ứng viên"
+    },
+    "position":{
+     "index": "Chức danh",
+     "detail":"Chi tiết chức danh",
+     "create": "Thêm mới chức danh",
+     "edit": "Chỉnh sửa chức danh"
+   },
+   "plan":{
+     "index": "Tuyển dụng",
+     "plan": "Kế hoạch tuyển dụng",
+     "interview": "Lịch phỏng vấn",
+     "candidate": "Hồ sơ ứng viên",
+     "detail":"Chi tiết kế hoạch",
+     "create": "Thêm mới kế hoạch",
+     "edit": "Chỉnh sửa kế hoạch"
+   },
+   "plans":{
+     "index": "Tuyển dụng",
+     "plans": "Kế hoạch tuyển dụng hrm",
+     "interview": "Lịch phỏng vấn",
+     "candidate": "Hồ sơ ứng viên",
+     "detail":"Chi tiết kế hoạch",
+     "create": "Thêm mới kế hoạch",
+     "edit": "Chỉnh sửa kế hoạch"
+   },
+   "plandetail":{
+     "index": "kế hoạch chi tiết",
+     "detail":"kế hoạch chi tiết",
+     "create":"Thêm kế hoạch chi tiết",
+     "edit": "Chỉnh sửa kế hoạch chi tiết"
+   },
+   "setting":{
+     "index": "Thiết lập",
+     "detail":"Chi tiết thiết lập",
+     "create": "Thêm mới thiết lập",
+     "edit": "Chỉnh sửa thiết lập"
+   },
+   "config": {
+      "index": "Cấu hình"
+    },
+    "positions": {
+      "index": "Bộ phận"
+    }
+ },
+ "label": {
+  "qualification":"Trình độ",
+  "name": "Họ tên",
+  "title_contract" : "Tiêu đề hợp đồng",
+  "name_position" : "Tên chức danh",
+  "name_department" : "Tên phòng ban",
+  "name_branch" : "Thuộc chi nhánh",
+  "status" : "Trạng thái",
+  "email": "Email",
+  "about":"Thông tin",
+  "address":"Địa Chỉ",
+  "instagram":"Instagram",
+  "city_id":"Thành phố",
+  "password": "Mật khẩu",
+  "zalo":"Zalo",
+  "tax_number":"Mã số thuế",
+  "status":"Trạng thái",
+  "district_id":"Quận huyện",
+  "bank":"Ngân hàng",
+  "password_confirmation": "Nhập lại mật khẩu",
+  "salutation": "Danh xưng",
+  "first_name": "Tên gọi",
+  "last_name": "Họ",
+  "company_name": "Tên công ty",
+  "display_name": "Tên hiển thị",
+  "home_phone": "Điện thoại nhà",
+  "phone": "Số điện thoại",
+  "skype": "Skype",
+  "website": "Website",
+  "facebook": "Facebook",
+  "twitter": "Twitter",
+  "street": "Đường phố",
+  "branch": "Chi nhánh",
+  "district": "Quận huyện",
+  "note": "Ghi chú",
+  "sku": "Sku",
+  "key": "Key",
+  "unit": "Đơn vị",
+  "manufacturer": "Nhà sản xuất",
+  "brand": "Thương hiệu",
+  "price": "Giá",
+  "sale_price": "Giá bán",
+  "purchase_price": "Giá mua",
+  "description": "Mô tả",
+  "value": "Giá trị",
+  "warehouse": "Kho hàng",
+  "quantity": "Số lượng",
+  "reference": "Tài liệu tham khảo",
+  "reason": "Lý do",
+  "slug": "Slug",
+  "uuid": "Mã",
+  "old_password": "Mật khẩu hiện tại",
+  "new_password": "Mật khẩu mới",
+  "new_password_confirmation": "Nhập lại mật khẩu mới",
+  "about":"Thông tin",
+  "address": "Địa chỉ",
+  "instagram":"Instagram",
+  "zalo":"Zalo",
+  "tax_number":"Mã số thuế",
+  "bank":"Ngân hàng",
+  "type":"Type",
+  "branch_status": "Branch status",
+  "city_id" : "Thành phố ",
+  "districts_id" : "Quận huyện",
+  "branch_id" : "Chi nhánh",
+  "title": "Tiêu đề",
+  "content" : "Nội dung",
+  "source" : "Source",
+  "plan_id" : "Kế hoạch tuyển dụng",
+  "position_id" : "Tên vị trí",
+  "user_id" : "Tên nhân viên",
+  "type" : "Loại hợp đồng",
+  "link_contract" : "Link hợp đồng",
+  "name_approver": "Chọn người phê duyệt"
+},
+"alert": {
+  "invalid": "Vui lòng kiểm tra thông tin cần nhập",
+  "add-position": "Thêm chức danh thành công ",
+  "edit-position" : "Sửa chức danh thành công",
+  "delete-position" : "Xóa chức danh thành công",
+  "status-edit-position" : "Cập nhập trạng thái thành công",
+  "add-department":"Thêm phòng ban thành công",
+  "edit-department" : "Sửa  phòng ban thành công",
+  "delete-department" : "Xóa phòng ban thành công",
+  "status-edit-department" : "Cập nhập trạng thái thành công",
+  "add-contract" : "Thêm hợp đồng thành công",
+  "edit-contract" : "Sửa hợp đồng thành công",
+  "delete-contract" : "Xóa hợp đồng thành công",
+  "success": "Thành công",
+  "statusSuccess": "Thay đổi trạng thái thành công",
+  "accountSuccess": "Thêm tài khoản thành công",
+  "addEmployee": "Thêm mới nhân viên thành công",
+  "updateEmployee": "Cập nhật nhân viên thành công",
+  "addContract": "Thêm hợp đồng thành công",
+  "updateContract": "Cập nhật hợp đồng thành công",
+  "deleteContract": "Xóa hợp đồng thành công",
+  "deleteEmployeeSuccess": "Xóa nhân viên thành công",
+  "deleteSettingSuccess": "Xóa thiết lập thành công",
+  "addSettingSuccess": "Thêm thiết lập thành công",
+  "updateSettingSuccess": "Cập nhật thiết lập thành công",
+  "deleteUserSucces":"Xóa người dùng thành công",
+  "addUserSuccess": "Thêm người dùng thành công",
+  "updateUserSuccess": "Cập nhật người dùng thành công",
+  "updateBranchSuccess": "Cập nhật chi nhánh thành công",
+  "updateTypeBranchSuccess": "Cập nhật chi nhánh chính thành công",
+  "createBranchSuccess": "Thêm chi nhánh thành công",
+  "deleteBranchSuccess": "Xóa chi nhánh thành công",
+  "failed": "Thất bại",
+  "error": "Lỗi",
+  "not-found": "Tài nguyên không tồn tại trên hệ thống",
+  "confirm": "Xác nhận",
+  "confirm_delete": "Bạn chắc chắn muốn xóa bản ghi này?",
+  "accept": "Đồng ý",
+  "date": "Xin vui lòng nhập ngày ký đến ngày kết thúc hợp đồng",
+  "donot": "Không",
+  "plan" :{
+    "success_create" : "Thêm kế hoạch thành công",
+    "success_delete" : "Xóa kế hoạch thành công",
+    "success_edit" : "Cập nhập kế hoạch thành công",
+    "success_detail" : "Xóa kế hoạch thành công",
+    "success_create_detail" : "Thêm chi tiết kế hoạch thành công",
+    "success_delete_detail" : "Xóa chi tiết kế hoạch thành công",
+    "success_edit_detail" : "Cập nhập chi tiết kế hoạch thành công",
+    "success_create_candidate" : "Thêm hồ sơ ứng viên thành công",
+    "success_delete_candidate" : "Xóa hồ sơ ứng viên thành công",
+    "success_edit_candidate" : "Cập nhập hồ sơ ứng viên thành công",
+    "success_change_status" : "Gửi yêu cầu phê duyệt thành công"
+  }
+},
+"control": {
+  "create": "Thêm mới",
+  "add": "Thêm",
+  "update": "Cập nhật",
+  "edit": "Chỉnh sửa",
+  "save": "Lưu lại",
+  "active": "Kích hoạt",
+  "lock": "Khóa",
+  "close" : "Hủy bỏ",
+  "change-password": "Đổi mật khẩu"
+}
+}
